@@ -1,0 +1,12 @@
+name: test2_intAtlas
+title: test2_intAtlas
+username:
+account: l-ejlskov
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2115190
+bundleId: 3496225
+url: https://l-ejlskov.shinyapps.io/test2_intAtlas/
+when: 1597047887.01422
+asMultiple: FALSE
+asStatic: FALSE

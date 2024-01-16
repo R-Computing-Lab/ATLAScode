@@ -1,0 +1,12 @@
+name: InteractiveASDAtlas
+title: InteractiveASDAtlas
+username:
+account: l-ejlskov
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2401579
+bundleId: 3250856
+url: https://l-ejlskov.shinyapps.io/InteractiveASDAtlas/
+when: 1591777833.12839
+asMultiple: FALSE
+asStatic: FALSE

@@ -1,0 +1,12 @@
+name: ASDRiskAtlas
+title: ASDRiskAtlas
+username:
+account: l-ejlskov
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2656143
+bundleId: 3589067
+url: https://l-ejlskov.shinyapps.io/ASDRiskAtlas/
+when: 1599145602.94558
+asMultiple: FALSE
+asStatic: FALSE

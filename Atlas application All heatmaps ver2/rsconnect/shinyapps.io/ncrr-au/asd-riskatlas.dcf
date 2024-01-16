@@ -1,0 +1,12 @@
+name: asd-riskatlas
+title: asd-riskatlas
+username:
+account: ncrr-au
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2776649
+bundleId: 3618337
+url: https://ncrr-au.shinyapps.io/asd-riskatlas/
+when: 1599816512.56554
+asMultiple: FALSE
+asStatic: FALSE
