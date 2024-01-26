@@ -3,7 +3,7 @@ Diana Schendel, Linda Ejlskov, Morten Overgaard, Zeal Jinwala, Viktor Kim, Erik 
 medRxiv 2023.11.03.23298042; 
 doi: https://doi.org/10.1101/2023.11.03.23298042
 
-Description: This repo contains data and code to generate.... 
+Description: This repository contains data and code to generate an RShiny app to describe the study design and interactive heatmaps of Adjusted hazard ratios (aHR) calculated via Cox regression models.  
 
 Clone this repository using: 
 
